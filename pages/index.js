@@ -65,9 +65,6 @@ export default function Home() {
           <h1 style={{ fontSize: '2rem', fontWeight: '700', marginBottom: '0.5rem', color: '#fff' }}>
             SERVER-RENDERED PRODUCT DASHBOARD
           </h1>
-          <p style={{ color: '#9ca3af', fontSize: '1rem' }}>
-            Next.js SSR admin panel for complete product management, charts, and secure image handling.
-          </p>
         </div>
 
         {/* Products Overview Section */}
