@@ -6,8 +6,8 @@ A modern, server-rendered e-commerce admin dashboard built with Next.js, featuri
 
 This is a full-stack e-commerce product management system designed for administrators to manage products, track inventory, view analytics, and handle secure image uploads. The application uses server-side rendering (SSR) for optimal performance and SEO, with a professional dark theme interface.
 
-**Live Demo:** [Deployed on Vercel](https://your-vercel-url.vercel.app)  
-**GitHub Repository:** [View on GitHub](https://github.com/your-username/your-repo-name)
+**Live Demo:** [Deployed on Vercel](https://server-rendered-e-commerce-product-smoky.vercel.app/)  
+**GitHub Repository:** [View on GitHub](https://github.com/Ruthwik2/Server--Rendered-E-commerce-Product-Management-Dashboard)
 
 ## ✨ Key Features
 
@@ -283,38 +283,6 @@ npm run start    # Start production server
 npm run lint     # Run ESLint
 ```
 
-### Adding New Features
 
-1. Create feature branch: `git checkout -b feature-name`
-2. Make changes and test locally
-3. Commit changes: `git commit -m "Add feature"`
-4. Push to GitHub: `git push origin feature-name`
-5. Create pull request on GitHub
 
-## 📊 Project Requirements Checklist
 
-| Requirement | Status |
-|-------------|--------|
-| Server-side rendering (Next.js) | ✅ |
-| Complete product management (CRUD) | ✅ |
-| Multi-step product creation forms | ✅ |
-| Input validation (Zod) | ✅ |
-| Interactive data visualization (Charts) | ✅ |
-| Secure image upload (Cloudinary) | ✅ |
-| Authentication & Authorization | ✅ |
-| Admin-only onboarding | ✅ |
-| Inventory value calculation | ✅ |
-| Case-insensitive categories | ✅ |
-
-## 📄 License
-
-MIT License - feel free to use this project for learning and development.
-
-## 👤 Author
-
-**WebD PS Project**  
-Next.js SSR E-commerce Dashboard
-
----
-
-**Built with ❤️ using Next.js, MongoDB, and Cloudinary**
